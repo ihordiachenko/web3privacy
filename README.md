@@ -1,4 +1,4 @@
-# web3privacy now - 550+ privacy projects empowering Web3 
+# web3privacy now - 550+ privacy projects empowering Web3
 *Web3privacy now* is a research project aimed at building a culture of privacy industry in web3: the most extensive database of privacy-enhancing solutions, the framework for PEDApps ideation, use-cases database & many more. Feel free to collaborate. [donate](https://github.com/Msiusko/web3privacy/blob/main/README.md#donate)
 
 | Block  | Description |
@@ -27,7 +27,7 @@ Feel free to update the list!
 - [Computing network](#Computing-network)
 - [Layer 2](#Layer-2)
 - [Hardware](#Hardware)
-- [VPN](#VPN) 
+- [VPN](#VPN)
 - [DID](#DID)
 - [DAO](#DAO)
 - [Bridge](#Bridge)
@@ -36,7 +36,7 @@ Feel free to update the list!
 - [KYC](#KYC)
 - [RPC](#RPC)
 - [Storage](#Storage)
-- [dApps](#dApps) 
+- [dApps](#dApps)
 - [OS](#OS)
 - [NFT](#NFT)
 - [Other](#Other)
@@ -62,9 +62,9 @@ Feel free to update the list!
 | [Evanesco](https://evanesco.org) | A financial protocol platform that combines Layer0 network infrastructure with a private computing framework. | ([GitHub](https://github.com/Evanesco-Labs)) | live, december 2021 | Eva | anon | - | - |
 | [Dusk](https://dusk.network) | Is a permissionless, ZK-friendly L1 blockchain protocol focused on Compliance and Privacy to tokenize Real-World Assets natively on-chain. Regulated and Decentralized Finance. | ([GitHub](https://github.com/dusk-network)) | testnet | Dusk | ([Public](https://dusk.network/pages/team)) | - | - |
 | [Manta Pay](https://app.manta.network/dolphin/transact) | MantaPay is coming to Calamari as the first privacy payment solution in the Kusama ecosystem.✨️**ZK**  | ([GitHub](https://github.com/Manta-Network)) | testnet v3 | Polkadot | anon | [Docs](https://docs.manta.network/docs/Introduction) | - |
-| [Webb](https://app.webb.tools/#/tornado) | an interoperable private bridge ✨️**ZK** | ([GitHub](https://github.com/webb-tools)) | beta | Tangle | anon | [Docs](https://docs.webb.tools/docs/) | [Audit of the DKG-Substrate pallet](https://blog.webb.tools/webbs-evm-bridge-security-audit-completed-by-veridise/) | 
-| [Panther Protocol](https://www.pantherprotocol.io) | is a decentralized privacy metaprotocol enabling confidential, trusted transactions and interoperability with DeFi ✨️**ZK** | ([GitHub](https://github.com/pantherprotocol))  | testnet launch Q2 2023, mainnet launch Q3 2023 | Ethereum, Elrond, Polkadot, Avalanche, Near, Flare | ([Public](https://www.pantherprotocol.io/)) | [Docs](https://docs.pantherprotocol.io/docs/start-here/panther-protocol-documentation) | [ZKP Vesting](https://www.pantherprotocol.io/resources/REP-Panther-ZKP-Vesting.pdf), [ZKP Token](https://www.pantherprotocol.io/resources/REP-Panther-ZKP-Token.pdf) | 
-| [RAILGUN](https://railgun.org) | Private transfers and DeFi infra for Ethereum, Polygon, Binance Smart Chain and Arbitrum.✨️**ZK** | - | live, Jul 2021 | Ethereum, BNB, Polygon | ([Public](https://railgun.org/#/contributors)) | [Docs](https://docs.railgun.org/developer-guide/cookbook/cookbook-overview) | [5 audits](https://assets.railgun.org/docs/audits/) | 
+| [Webb](https://app.webb.tools/#/tornado) | an interoperable private bridge ✨️**ZK** | ([GitHub](https://github.com/webb-tools)) | beta | Tangle | anon | [Docs](https://docs.webb.tools/docs/) | [Audit of the DKG-Substrate pallet](https://blog.webb.tools/webbs-evm-bridge-security-audit-completed-by-veridise/) |
+| [Panther Protocol](https://www.pantherprotocol.io) | is a decentralized privacy metaprotocol enabling confidential, trusted transactions and interoperability with DeFi ✨️**ZK** | ([GitHub](https://github.com/pantherprotocol))  | testnet launch Q2 2023, mainnet launch Q3 2023 | Ethereum, Elrond, Polkadot, Avalanche, Near, Flare | ([Public](https://www.pantherprotocol.io/)) | [Docs](https://docs.pantherprotocol.io/docs/start-here/panther-protocol-documentation) | [ZKP Vesting](https://www.pantherprotocol.io/resources/REP-Panther-ZKP-Vesting.pdf), [ZKP Token](https://www.pantherprotocol.io/resources/REP-Panther-ZKP-Token.pdf) |
+| [RAILGUN](https://railgun.org) | Private transfers and DeFi infra for Ethereum, Polygon, Binance Smart Chain and Arbitrum.✨️**ZK** | - | live, Jul 2021 | Ethereum, BNB, Polygon | ([Public](https://railgun.org/#/contributors)) | [Docs](https://docs.railgun.org/developer-guide/cookbook/cookbook-overview) | [5 audits](https://assets.railgun.org/docs/audits/) |
 | [Umbra](https://app.umbra.cash) |  As a protocol, Umbra defines a simple set of standards, coupled with a singleton smart contract instance, to enable stealth addresses on Ethereum | ([GitHub](https://github.com/ScopeLift/umbra-protocol)) | mainnet, june 2021 | Ethereum | anon | - | [3 audits](https://app.umbra.cash/faq#security) |
 | [Light Shield](https://shield.lightprotocol.com) |  private transactions for Solana. | - | mainnet-beta | Solana  | anon | [Docs](https://docs.lightprotocol.com) | [Code review](https://github.com/Lightprotocol/light-protocol-v1/blob/main/Audit/Light%20Protocol%20Audit%20Report.pdf) |
 | [Horizon](https://messier.gitbook.io/catalogue-de-messier/messier-applications/horizon) | Decentralized Anonymous Payment Systems ✨️**ZK** | - | TBD | - | anon | [Docs](https://messier.gitbook.io/catalogue-de-messier/messier-applications/horizon) | [Messier](https://skynet.certik.com/projects/messier) |
@@ -169,11 +169,11 @@ Feel free to update the list!
 | [Suterusu](https://suterusu.io) | A suite of privacy-preserving services to obfuscate transactional and asset information | [GitHub](https://github.com/suterusu-team) | testnet, January 2021 | SUTER |
 | [HOPR](https://hoprnet.org/protocol) | a fully incentivized and decentralized privacy mixnet that enables private point-to-point data exchange | [GitHub](https://github.com/hoprnet) | testnet, 2021 | HOPR |
 | [Concordium](https://concordium.com) | A compliance ready blockchain backed by science that enables private and public transactions | [GitHub](https://github.com/Concordium) | mainnet, june 2021 | CCD |
-| [Horizen](https://www.horizen.io) | The Zero-Knowledge Enabled Network of Blockchains✨️**ZK** | [GitHub](https://github.com/horizenofficial) | testnet | ZEN | 
+| [Horizen](https://www.horizen.io) | The Zero-Knowledge Enabled Network of Blockchains✨️**ZK** | [GitHub](https://github.com/horizenofficial) | testnet | ZEN |
 | [Parami](https://parami.io) | para metaverse identity. As the next generation identity protocol based on the W3C decentralized identity standard, it is designed for metaverse and Web 3 users with self-sovereign and permissionless service. | - | testnet | no |
 | [Mystiko.Network](https://mystiko.network) | The Universal Web3 Zero-Knowledge Connectivity And Privacy Base Layer ✨️**ZK** | [GitHub](https://github.com/mystikonetwork) | testnet | no |
 | [Nulink](https://www.nulink.org) | Privacy-preserving technology for decentralized applications | [GitHub](https://github.com/NuLink-network) | testnet, October 2022 | NLINK |
-| [RUBY](https://www.ruby.xyz) | The Decentralized Privacy-Centric Protocol for Web3 | [GitHub](https://github.com/Ruby-Protocol) | testnet, January 2023 | RUBY | 
+| [RUBY](https://www.ruby.xyz) | The Decentralized Privacy-Centric Protocol for Web3 | [GitHub](https://github.com/Ruby-Protocol) | testnet, January 2023 | RUBY |
 | [Raze Network](https://www.raze.network) | a EVM-compatible Privacy Layer on Multichains | [GitHub](https://github.com/Raze-Net) | mainnet, november 2021 | RAZE |
 | [Privatixy](https://privatixy.io) | an open-source protocol that offers a wide variety of solutions for privacy preservation for blockchain users. | - | TBD | PRIVATIXY |
 | [Omnia](https://omniatech.io) | Secure blockchain node infrastructure | [GitHub](https://github.com/omniaprotocol) | testnet coming in Q1 2023 | OMNIA |
@@ -308,8 +308,8 @@ Feel free to update the list!
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
 | [Nata Router](https://natarouter.com) [Nata Network](https://natanetwork.io) | Multichain Privacy Protocol built on Across, Stargate and Aztec Connect. Nata Network rollups and settles zkproofs on Polygon✨️**ZK** | ([GitHub](https://github.com/shichiro-nakahara)) | live, june 2023 | Ethereum, Polygon, Optimism, Arbitrum, zkSync, Base, Mantle, Avalanche, Fantom, Kava | anon | [Docs](https://docs.natanetwork.io/router/userguide/introduction) | [Audits](https://docs.natanetwork.io/audits) |
-| [Polygon Nightfall](https://polygon.technology/solutions/polygon-nightfall) | A Privacy-Focused Rollup for Enterprises ✨️**ZK** |([GitHub](https://github.com/maticnetwork/nightfall-sdk/ )) | mainnet, July 2022 | Polygon | ([Public](https://polygon.technology/about)) | 
-| [Obscuro](https://obscu.ro) | Obscuro is a layer 2 solution for Ethereum that brings privacy and scale. It ensures the inputs, contract state and execution are always encrypted. No changes to dApps, just migrate and gain privacy | ([Docs](https://docs.obscu.ro)) | testnet | Ethereum | ([Public](https://obscu.ro/#team)) | 
+| [Polygon Nightfall](https://polygon.technology/solutions/polygon-nightfall) | A Privacy-Focused Rollup for Enterprises ✨️**ZK** |([GitHub](https://github.com/maticnetwork/nightfall-sdk/ )) | mainnet, July 2022 | Polygon | ([Public](https://polygon.technology/about)) |
+| [Obscuro](https://obscu.ro) | Obscuro is a layer 2 solution for Ethereum that brings privacy and scale. It ensures the inputs, contract state and execution are always encrypted. No changes to dApps, just migrate and gain privacy | ([Docs](https://docs.obscu.ro)) | testnet | Ethereum | ([Public](https://obscu.ro/#team)) |
 | [ZKCHAOS](https://www.zkchaos.com) | ZKCHAOS is a layer2-based anonymous transaction protocol, and a fair game platform, which is built to enhance privacy for all kinds of cryptocurrency. | [GitHub](https://github.com/zkchaos) | - | - | - |
 | [StarkEX](https://starkware.co/starkex/) | A Layer-2 scalability engine, live on Ethereum Mainnet ✨️**ZK** | ([GitHub](https://github.com/starkware-libs/starkex-resources)) | live | Ethereum | ([Public](https://starkware.co/about-us/)) |
 | [Plebble](https://plebble.net) | P2P Network of computers running the Plebble software (L1 & L2) | ([GitHub](https://github.com/root1m3/plebble)) | TBD | TBD | anon |
@@ -401,13 +401,15 @@ Feel free to update the list!
 | [Fame](https://getfame.ai) | transform into an AI-powered influencer | ([GitHub](https://fame.gitbook.io/fame-ai/)) | - | - | - |
 | [CARV](https://carv.io) | credential infra focused on gaming, enabling players with achievement display, semantic social, and access to gaming premiums. | ([Docs](https://docs.carv.io/overview/carv-intro)) | - | - | - |
 | BANS | Beam Anonymous Name Service | ([Github](https://github.com/BeamMW/BANS)) ([Docs](https://medium.com/beam-mw/create-your-own-id-with-bans-beam-anonymous-name-service-34596e4f4f)) | [live](https://medium.com/beam-mw/bans-launch-16th-august-262e9273a783) | [Beam](https://beam.mw/) | no | [public](https://github.com/orgs/BeamMW/people) |
+| [Rarimo](https://rarimo.com//) | Rarimo is a privacy-first social protocol. It seamlessly combines various identity standards and allows the formation of a private but verifiable history of their use and relations using ZK proofs. | ([GitHub](https://github.com/rarimo)) | live | Polygon | (yes) | ([Public](https://github.com/orgs/rarimo/people)) |
+
 
 ## DAO
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/%20DAO.png?raw=true)
 | Project  | Description | GitHub | Product-readiness | Ecosystem | Team |
 | ------------- | ------------- |------------- |------------- | ------------- | ------------- |
-| [AnyDAO](https://www.anydao.app) | Vote aggregation across different blockchain networks with adjustable privacy settings which controls the visibility of the voting |  [Docs](https://github.com/automata-network/docs/tree/master/docs/anydao) | - | - | - | 
-| [HeyAnon](https://www.heyanoun.xyz) | Allows noun-holders to give feedback on proposals while maintaining their privacy using zero-knowledge proofs ✨️**ZK** | - | - | - | - | 
+| [AnyDAO](https://www.anydao.app) | Vote aggregation across different blockchain networks with adjustable privacy settings which controls the visibility of the voting |  [Docs](https://github.com/automata-network/docs/tree/master/docs/anydao) | - | - | - |
+| [HeyAnon](https://www.heyanoun.xyz) | Allows noun-holders to give feedback on proposals while maintaining their privacy using zero-knowledge proofs ✨️**ZK** | - | - | - | - |
 | [LunarDAO](https://lunardao.net) | DAO fostering R&D and investments within Lunarpunk movement |  [GitHub](https://github.com/lunardao/dao) | - | - | - |
 | [BeamX DAO](https://BeamXDAO.org) | Decentralized and confidential governance for the Beam Ecosystem | [Github](https://github.com/BeamMW/) | live | [Beam](https://beam.mw) | [public](https://github.com/orgs/BeamMW/people) |
 
@@ -761,12 +763,14 @@ Feel free to update the list!
 | [Equilibria](https://equilibriacc.com) | Privacy oracle | ([GitHub](https://github.com/EquilibriaCC)) | - | - | - |
 | [GenomesDAO](https://genomes.io) |  money and anonymously power scientific and medical research | - | - | - | - |
 | [Night Finance](https://night.finance) |  A Stealth Address-Powered Private and Composable Account Layer for Ethereum | - | - | - | - |
+| [Freedom Tool](https://freedomtool.org/#/) | Freedom Tool is a transparent, privacy-preserving blockchain voting system based on biometric passports and zero-knowledge proofs. | - | - | - | - |
+
 
 ## Podcasts & blogs
 ![alt text](https://github.com/Msiusko/web3privacy/blob/main/static-assets/Podcasts%20%26%20blogs.png?raw=true)
 - [Seth for Privacy](https://sethforprivacy.com) - My aim overall is to educate and learn more myself about where technology and privacy meet.
 - [Freedom Tech](https://freedom.tech) - Enabling human freedom and flourishing through technology.
-- [Surveillance Report](https://surveillancereport.tech) -  Weekly security and privacy news - Presented by Techlore & The New Oil. 
+- [Surveillance Report](https://surveillancereport.tech) -  Weekly security and privacy news - Presented by Techlore & The New Oil.
 - [Priv8](https://www.orchid.com/podcast/) - Plug in every week with host Derek E. Silva as he joins leading experts to explore questions around privacy, technology, and freedom in the digital age.
 
 ## Events
@@ -805,15 +809,15 @@ Feel free to update the list!
 | [StealthPay](https://www.stealthpay.cash) | a stealth address protocol for Ethereum.| [GitHub](https://github.com/cryptoadong) | **sunset** | Ethereum | - |
 | [Crypviser Secure Messenger](https://crypviser.network/) | The most private messaging app, based on Blockchain technology. | - | **sunset** | - | - |
 | [XATA](https://www.xata.fi) | A MEV Minimization solution to survive the Dark Forest  | [Docs](https://docs.xata.fi) | **sunset** | Automata | - |
-| [zk.money](https://zk.money) | The private DeFi yield aggregator for Ethereum.✨️**ZK** | [Github](https://github.com/AztecProtocol/zk-money) [Docs](https://docs.aztec.network) | **sunset** | Ethereum | - | 
-| [Yellow Submarine](https://ys.finance) | the first and only multichain dApp to offer plug-and-play private DeFi (PriFi) across all EVM-compatible chains | [Medium](https://medium.com/@Yellow_Submarine) | **sunset** | EVM compatible | - | 
+| [zk.money](https://zk.money) | The private DeFi yield aggregator for Ethereum.✨️**ZK** | [Github](https://github.com/AztecProtocol/zk-money) [Docs](https://docs.aztec.network) | **sunset** | Ethereum | - |
+| [Yellow Submarine](https://ys.finance) | the first and only multichain dApp to offer plug-and-play private DeFi (PriFi) across all EVM-compatible chains | [Medium](https://medium.com/@Yellow_Submarine) | **sunset** | EVM compatible | - |
 | [Sacred](https://sacred.finance) |  multi-chain DeFi Platform offers private Yield Bearing Deposits to DeFi users ✨️**ZK** | [GitHub](https://github.com/Sacred-Finance) | **sunset** | Ethereum, Polygon | - |
 | [Sahara](https://sahara.network) | The first dedicated privacy protocol ecosystem that enables on-platform trade between volatile and stable assets | - | **sunset** | Ethereum, BNB, Polygon, Solana, Avalanche | [Vesting contract](https://sahara.network/resources/sahara-security-audit.pdf) |
 | [DeFiner](https://definer.org) | Permission-less and configurable decentralized lending protocol with privacy 100% protected ✨️**ZK** | [GitHub](https://github.com/DeFinerOrg) [Docs](https://docs.definer.org) | **sunset** | - | [Savings audits](https://docs.definer.org/v/copy-of-definer.org/security/audits) |
 | [CIA protocol](https://ciaprotocol.com) | Building the truest form of DeFi with privacy by default. | [Github](https://github.com/CIAProtocol) | **sunset** | Ethereum | - |
 | [CoinBook](https://www.coinbook.app) | Decentralized Multi Chain P2P Order Book | [Github](https://github.com/CoinBookOfficial) | **sunset** | multichain | - |
 | [Highline](https://highline.dev) | an execution layer for Ethereum  | [Docs](https://highline.dev/docs/) | **sunset** | - | - |
-| [Sismo](https://www.sismo.io/) | Sismo is a modular protocol issuing ZK Badges for reputation portability and aggregation | [GitHub](https://github.com/sismo-core) | **sunset** | EVM | - | 
+| [Sismo](https://www.sismo.io/) | Sismo is a modular protocol issuing ZK Badges for reputation portability and aggregation | [GitHub](https://github.com/sismo-core) | **sunset** | EVM | - |
 | [Anon virtual cards](https://vcc.anonzk.io) | Visa Off-Ramp (VCC). Purchase virtual credit cards with your favourite cryptocurrencies, which can be freely spent online and in-store. | - | **sunset** | - | - |
 | [Namachain](https://namachain.com) | A Universal Key & ID manager, fully decentralized and with zero-knowledge offline authentication.  | [GitHub](https://github.com/Namachain) | **sunset** | - | - |
 | [Nocturne](https://nocturnelabs.xyz) | a protocol enabling usable on-chain privacy | ([GitBook](https://nocturne-xyz.gitbook.io/nocturne/introduction/one-pager) | - | - |
